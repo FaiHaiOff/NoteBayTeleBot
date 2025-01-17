@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "notebaytelebot-448118",
+  "private_key_id": "2f31bfad9e79582cae6bb25f74641b02e0abb8cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCti0EWF1jJDyMk\n/tFSo9wRhyxZRv4ZJggY8CbTy9ieOs/R5ImQXhu1+l3zYDJMUA6iuVHLkadCou/S\neaDMlzSQvfbRUHk0ec5f93LIXuH8fIRR0PpMzyOIuvt3G7pIFUptBbXl2fP7bRZd\ncHGl9yNcri11chXsSdp5gpi/fhBatc/pZLlfy+OspmtwthYleVtAI++9CTTO9IOO\nrf6O6wQ7ijcjOtnV1ngJpxS+HR1lA/D6CjdyWROFyI1V6b2B5Mni5d6LlmbveUiC\njwcu7A5ACj0J3br0/iZzRPuE54aDrmPJXbfYZ5ACegRd3KYDx2DqcFbqMuKLIfA9\nmfLC+vV1AgMBAAECggEAFohw4wAVCcYVYhr+mCRT0VLOcf5txQYodv8iNiMkSnyI\nZKWv1uGL54z34JR/ng5RrX8yck7Ee4/RuRphw9lo0det0cUJIm8jr1eJvR/UvTEj\nB8ctOLE3LpcDSkEnZsSc7UWYi0eeuOk+cNNww4PbQOVnXEsmiDpD9mhRPPaOrmLw\nsErj7QVx8O4nEq9iZheRmxZiJdKPKRC9NX+IsPfxkdlBzsFDjScx2oros+B0xGLn\n/Ba4NnqM8ypMu8zqSdbLeperYASqS8qvAR1oPcUrEpdxrklzfEo+xsUh+VsO6xKH\n67vNMXCvQCBRhlnTjPppDQmKXqDbqL2puVr2PhFH4QKBgQDmXGk7YhG4NnMdFpeq\nK4bKvTEA/vvO+a6hKv5J1DNj/VP29P7dJYX5jn2EP7YPLlTGsXBgJGEv9tuL96/9\nh1i2NgqvEuqNJ7imM4+CUXJx50dAYYHudWo3DjOzpMigpZmXbz0ZB99hjiyAivvo\ndx9i6ZpiZQj6zEvblakhgt2PmwKBgQDA2/opb5s74GqU2Fwz+Xy43YYmSt3+tt7Y\np6e85bL6CrPGKDSJc73fGckdpa2ifD/r0Wy0fZ6TKSRdNA6560WPGcnB5H5LC43E\nXtSOt6+82Ge42uMBg+Xp6K4uAhCwkt3A7pfjVHybsn2Zw+9x2jcsjP4BbnFlz+Jx\nBndJo15ILwKBgA01k1syXm2/wY4Tc5LweAQ8IQk7ldjifF8FhhtZrbC4IA5zMgIg\nWrRatVvWA2yPbZEPL7BzpZcIgsJd65uQHUglhStQ3F5HvtDY+Auy++sIJg/NB5RS\n60pI6DIO6uo7VLlYSZqb1vVTH74nOha0bfpQBuhJfuBSwq7OwCoJxQatAoGAXxJR\n4OlOuhaoE9YQpeKANFWn0uqnQvB9LIqBauJE93QdKTsaowO2fuukNAQ/c1ES5boo\nf1VJvbvTXErUU5yCfse0qOttwqrgaQRifjRY4pw/jWYB7/ZIeaWlb7K+7XyI6pnz\nsDIu90XnGsz3FcX/2utqL+R07D6tnxAT7+4kBSsCgYB5TZS3PJGJkSMREcXRf7Qa\n9e+zsCdEIKXbTilqkHnFoNxla3YdOQC42eCVlrCaX2/RkRmRZxwtretCWVAVYYuW\nh8oV+Rq1CU0NhSqj925ajdU5n3mhhYVYZyLiCu5NTHHob90qbOVmhatKTBgrq3L5\ncfFQzQe4B5YeVRI0cytk/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "studentbotservice@notebaytelebot-448118.iam.gserviceaccount.com",
+  "client_id": "105096358410006444978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/studentbotservice%40notebaytelebot-448118.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
